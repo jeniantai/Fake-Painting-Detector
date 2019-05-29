@@ -12,4 +12,4 @@ One of the biggest challenges of an purchasing a painting at an auction is the r
 8) Summarize result on test set
 
 ## Result
-xgBoost delivered 90% accuracy in classifying the 'Bad Buys'
+xgBoost delivered 90% accuracy in classifying the 'Bad Buys', which is better than Random Forest.
